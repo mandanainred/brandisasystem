@@ -1,3 +1,13 @@
+## Download
+
+Download the official PDF version of **Brand Is a System — Iteration 0**:
+
+[Download Brand Is a System — Iteration 0 PDF](https://raw.githubusercontent.com/mandanainred/brandisasystem/main/BrandIsASystemIteration0-MASTER-2026-06-22.pdf)
+
+Official website:
+
+[brandisasystem.com](https://brandisasystem.com)
+
 # brandisasystem
 A systems-oriented view of brand, organization, environment, and meaning
 # Rights & Use
