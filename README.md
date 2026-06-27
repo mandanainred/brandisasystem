@@ -1,3 +1,6 @@
+# brandisasystem
+A systems-oriented view of brand, organization, environment, and meaning
+
 ## Download
 
 Download the official PDF version of **Brand Is a System — Iteration 0**:
@@ -8,8 +11,7 @@ Official website:
 
 [brandisasystem.com](https://brandisasystem.com)
 
-# brandisasystem
-A systems-oriented view of brand, organization, environment, and meaning
+
 # Rights & Use
 
 Copyright © 2026 Mandana Aeinechian. All rights reserved.
